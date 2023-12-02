@@ -5,3 +5,11 @@ git checkout
 git switch
 git log
 git status
+
+I sent file
+Fork the file
+Clone the repository/Directory to your local environment
+Update the file in the directory
+Create a push - compare and create a pull request
+PR or MR - Reviewed
+Merge the request to the your github repo
