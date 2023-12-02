@@ -1,0 +1,6 @@
+git command
+git add .
+git commit -m "message"
+git checkout
+git switch
+git log
