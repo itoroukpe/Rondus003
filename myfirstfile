@@ -4,3 +4,4 @@ git commit -m "message"
 git checkout
 git switch
 git log
+git status
